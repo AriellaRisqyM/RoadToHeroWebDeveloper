@@ -1,2 +1,2 @@
 # Road-To-Hero-Web-Developer
-Repositori belajar webdev setiap hari -minimal 1 jam belajar course di udemy-
+Repositori belajar webdev setiap hari -belajar course di udemy-
